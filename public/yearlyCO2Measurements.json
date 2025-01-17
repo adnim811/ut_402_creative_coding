@@ -1,0 +1,298 @@
+{
+  "co2Yearly": [
+    {
+      "id": "1980",
+      "year": "1980",
+      "measurement": 338.91,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1981",
+      "year": "1981",
+      "measurement": 340.11,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1982",
+      "year": "1982",
+      "measurement": 340.86,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1983",
+      "year": "1983",
+      "measurement": 342.53,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1984",
+      "year": "1984",
+      "measurement": 344.07,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1985",
+      "year": "1985",
+      "measurement": 345.54,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1986",
+      "year": "1986",
+      "measurement": 346.97,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1987",
+      "year": "1987",
+      "measurement": 348.68,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1988",
+      "year": "1988",
+      "measurement": 351.16,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1989",
+      "year": "1989",
+      "measurement": 352.78,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1990",
+      "year": "1990",
+      "measurement": 354.05,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1991",
+      "year": "1991",
+      "measurement": 355.39,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1992",
+      "year": "1992",
+      "measurement": 356.09,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1993",
+      "year": "1993",
+      "measurement": 356.83,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1994",
+      "year": "1994",
+      "measurement": 358.33,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1995",
+      "year": "1995",
+      "measurement": 360.17,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1996",
+      "year": "1996",
+      "measurement": 361.93,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1997",
+      "year": "1997",
+      "measurement": 363.05,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1998",
+      "year": "1998",
+      "measurement": 365.7,
+      "unc": " 0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "1999",
+      "year": "1999",
+      "measurement": 367.8,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2000",
+      "year": "2000",
+      "measurement": 368.96,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2001",
+      "year": "2001",
+      "measurement": 370.57,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2002",
+      "year": "2002",
+      "measurement": 372.59,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2003",
+      "year": "2003",
+      "measurement": 375.15,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2004",
+      "year": "2004",
+      "measurement": 376.95,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2005",
+      "year": "2005",
+      "measurement": 378.98,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2006",
+      "year": "2006",
+      "measurement": 381.15,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2007",
+      "year": "2007",
+      "measurement": 382.9,
+      "unc": " 0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2008",
+      "year": "2008",
+      "measurement": 385.02,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2009",
+      "year": "2009",
+      "measurement": 386.5,
+      "unc": " 0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2010",
+      "year": "2010",
+      "measurement": 388.76,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2011",
+      "year": "2011",
+      "measurement": 390.63,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2012",
+      "year": "2012",
+      "measurement": 392.65,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2013",
+      "year": "2013",
+      "measurement": 395.4,
+      "unc": " 0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2014",
+      "year": "2014",
+      "measurement": 397.34,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2015",
+      "year": "2015",
+      "measurement": 399.65,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2016",
+      "year": "2016",
+      "measurement": 403.06,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2017",
+      "year": "2017",
+      "measurement": 405.22,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2018",
+      "year": "2018",
+      "measurement": 407.62,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2019",
+      "year": "2019",
+      "measurement": 410.07,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2020",
+      "year": "2020",
+      "measurement": 412.44,
+      "unc": "0.1",
+      "unit": "ppm"
+    },
+    {
+      "id": "2021",
+      "year": "2021",
+      "measurement": 414.73,
+      "unc": "0.1",
+      "unit": "ppm"
+    }
+  ]
+}
